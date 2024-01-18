@@ -1,3 +1,4 @@
+***<sup>get tampermonkey here: [website](https://www.tampermonkey.net/) and [addon store](https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?pli=1)</sup>***
 # Manga-Lens
 A quick and dirty tampermonkey script that vastly improves reading the translated image:
 
